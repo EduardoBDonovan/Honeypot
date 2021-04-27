@@ -6,7 +6,7 @@
 
 I deployed this Honeypot using GCP and using the Google Cloud SDK Shell.
 
-<img src="mhn-admin.gif">
+<img src="mhn-admin.gif.png">
 
 ### Dionaea Honeypot Deployment (Required)
 
@@ -14,7 +14,7 @@ I deployed this Honeypot using GCP and using the Google Cloud SDK Shell.
 
 Dionaea was responsible for taking and compiling the IP's of the attackers. 
 
-<img src="dionaea-honeypot.gif">
+<img src="dionaea-honeypot.gif.png">
 
 ### Database Backup (Required) 
 
