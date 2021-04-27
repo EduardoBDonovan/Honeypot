@@ -22,7 +22,7 @@ Dionaea was responsible for taking and compiling the IP's of the attackers.
 
 The exported JSON file records the attacks that the Honeypot managed to intercept.
 
-*Be sure to upload session.json directly to this GitHub repo/branch in order to get full credit.*
+<img src="session.gif.png">
 
 ### Deploying Additional Honeypot(s) (Optional)
 
